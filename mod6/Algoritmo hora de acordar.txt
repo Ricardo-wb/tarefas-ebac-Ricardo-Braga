@@ -1,0 +1,12 @@
+Algoritmo hora de acordar:
+
+1. Abrir os olhos.
+2. Se o despertador foi programado:
+	2.1 - Pegar o celular/despartador.
+	2.2 - Desativar o alarme.
+	2.3 - Devolver o celular/despertador para o local inicial.
+3. Se estiver coberto:
+	3.1 - Retirar as cobertas que estão sobre o corpo.
+4. Sentar na cama.
+5. Se espriguiçar.
+6. Ficar de pé.
